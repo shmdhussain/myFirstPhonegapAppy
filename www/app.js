@@ -85,7 +85,7 @@ myApp.config(function($locationProvider, $routeProvider) {
             // controller:'cipProductController'
         })
         .otherwise({
-            redirectTo: '/default'
+            redirectTo: '/page1'
         });
 
 
